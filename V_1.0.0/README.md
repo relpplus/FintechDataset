@@ -5,14 +5,14 @@
 * English Version
 
    - TXT (Used txt for RelP processing)
-   - NER (Connl files with NER annotations)
+   - NER (CoNNL files with NER annotations)
    - ExtractionRelation (Manual annotation's excel of Relation Extraction)
    - Original (Original file of fintechs's dataset)
 
 * Portuguese Version
 
    - TXT (txt que usamos pra processar RelP)
-   - NER (arquivos connl com anotação NER)
+   - NER (arquivos CoNNL com anotação NER)
    - ExtractionRelation (excel com a anotação manual de Extração Relação)
    - Original (arquivo original do dataset fintechs)
 
