@@ -1,0 +1,18 @@
+Em O
+apenas O
+dois O
+meses O
+de O
+operação O
+nos O
+Estados B-LOC
+Unidos I-LOC
+, O
+a O
+startup O
+reuniu O
+40 B-VAL
+mil I-VAL
+downloads O
+. O
+

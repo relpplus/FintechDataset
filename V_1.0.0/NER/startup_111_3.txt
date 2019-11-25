@@ -1,0 +1,22 @@
+A O
+rodada O
+foi O
+liderada O
+pela O
+Kaszek B-PER
+Ventures I-PER
+, O
+investidora O
+do O
+Nubank B-ORG
+, O
+e O
+Ribbit B-PER
+Capital I-PER
+, O
+que O
+investiu O
+no O
+Guiabolso B-LOC
+. O
+

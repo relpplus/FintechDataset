@@ -1,0 +1,23 @@
+Outra O
+startup O
+que O
+faz O
+parte O
+do O
+grupo O
+é O
+a O
+Eletrika B-ORG
+, O
+dos O
+sócios O
+Lucilene B-PER
+Oliveira I-PER
+, O
+Alexandre B-PER
+Hellis I-PER
+e O
+Oswaldo B-PER
+Prates I-PER
+. O
+

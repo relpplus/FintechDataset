@@ -1,0 +1,17 @@
+N26 O
+: O
+maior O
+fintech O
+da O
+Europa B-LOC
+chega O
+ao O
+Brasil B-LOC
+ainda O
+em O
+2019 B-TMP
+, O
+diz O
+executivo O
+. O
+

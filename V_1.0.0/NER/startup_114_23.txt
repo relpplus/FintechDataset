@@ -1,0 +1,14 @@
+A O
+conta O
+Black O
+, O
+mais O
+robusta O
+, O
+custa O
+9,9 B-VAL
+0 I-VAL
+euros I-VAL
+mensais I-VAL
+. O
+

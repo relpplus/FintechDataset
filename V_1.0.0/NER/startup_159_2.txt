@@ -1,0 +1,24 @@
+O O
+capital O
+será O
+utilizado O
+na O
+expansão O
+da O
+empresa O
+para O
+o O
+Brasil B-LOC
+e O
+nos O
+Estados B-LOC
+Unidos I-LOC
+, O
+bem O
+como O
+para O
+lançar O
+novos O
+produtos O
+. O
+

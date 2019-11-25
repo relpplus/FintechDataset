@@ -1,0 +1,16 @@
+A O
+empresa O
+anunciou O
+em O
+um O
+comunicado O
+o O
+aporte O
+de O
+US$1,4 B-VAL
+6 I-VAL
+bilhões I-VAL
+do O
+Softbank B-ORG
+. O
+

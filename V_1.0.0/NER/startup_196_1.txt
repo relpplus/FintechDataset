@@ -1,0 +1,19 @@
+Segundo O
+o O
+levantamento O
+, O
+a O
+Região B-LOC
+Sudeste I-LOC
+é O
+seguida O
+pela O
+Sul B-ORG
+, O
+com O
+257 B-VAL
+startups O
+do O
+agro O
+. O
+

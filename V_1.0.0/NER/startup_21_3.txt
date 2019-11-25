@@ -1,0 +1,18 @@
+O O
+CONCRED B-ORG
+será O
+realizado O
+entre O
+os O
+dias O
+21 B-TMP
+e O
+23 B-TMP
+de I-TMP
+novembro I-TMP
+, O
+em O
+Florianópolis B-LOC
+(SC) O
+. O
+

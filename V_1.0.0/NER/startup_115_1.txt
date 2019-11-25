@@ -1,0 +1,20 @@
+A O
+fintech O
+brasileira O
+PagBrasil B-ORG
+, O
+que O
+oferece O
+processamento O
+de O
+pagamentos O
+online O
+no O
+Brasil B-LOC
+para O
+comerciantes O
+nacionais O
+e O
+internacionais O
+. O
+

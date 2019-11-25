@@ -1,0 +1,27 @@
+A O
+parceria O
+entra O
+em O
+vigor O
+nos O
+campos O
+de O
+produção O
+de O
+sementes O
+e O
+na O
+cadeia O
+de O
+produção O
+na O
+Europa B-LOC
+, O
+Canadá B-LOC
+, O
+Estados B-LOC
+Unidos I-LOC
+e O
+Brasil B-LOC
+. O
+

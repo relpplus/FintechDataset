@@ -1,0 +1,11 @@
+A O
+startup O
+britânica O
+chega O
+ao O
+Brasil B-LOC
+em O
+2019 B-TMP
+Revolut O
+. O
+

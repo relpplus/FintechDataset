@@ -1,0 +1,12 @@
+O O
+pedido O
+havia O
+sido O
+registrado O
+em O
+maio B-TMP
+do O
+ano O
+passado O
+. O
+

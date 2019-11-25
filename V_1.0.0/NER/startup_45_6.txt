@@ -1,0 +1,26 @@
+Fernando B-PER
+Montanari I-PER
+, O
+diretor O
+de O
+Negócios O
+da O
+Neon B-ORG
+Pagamentos I-ORG
+afirma O
+, O
+em O
+nota O
+, O
+que O
+tudo O
+na O
+conta O
+é O
+feito O
+“de O
+forma O
+muito O
+intuitiva” O
+. O
+

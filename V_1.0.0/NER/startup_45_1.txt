@@ -1,0 +1,24 @@
+A O
+fintech O
+Neon B-ORG
+Pagamentos I-ORG
+lançou O
+nesta O
+quinta-feira O
+(22 B-TMP
+) O
+uma O
+conta O
+digital O
+voltada O
+para O
+os O
+microempreendedores O
+individuais O
+(MEIs B-ORG
+) O
+e O
+pequenas O
+empresas O
+. O
+

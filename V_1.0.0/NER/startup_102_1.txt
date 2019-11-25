@@ -1,0 +1,25 @@
+O O
+Samsung B-PER
+Pay I-PER
+anunciou O
+segunda-feira O
+(25 B-TMP
+) O
+que O
+a O
+Trigg B-ORG
+é O
+a O
+primeira O
+fintech O
+a O
+juntar-se O
+ao O
+serviço O
+de O
+pagamento O
+móvel O
+no O
+Brasil B-LOC
+. O
+

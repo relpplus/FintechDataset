@@ -1,0 +1,1 @@
+O mecanismo funciona da seguinte maneira: ao acessar o app, sempre que a fatura fechar, aparecerá um aviso na parte inferior do celular. Clicando nele, o cliente terá acesso ao que economizou no período e aos valores cobrados pelo mercado. Assim, ele verá todas as vantagens em utilizar o cartão e a conta digital pag! para realizar suas transações.

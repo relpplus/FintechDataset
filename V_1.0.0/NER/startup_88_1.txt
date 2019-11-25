@@ -1,0 +1,25 @@
+A O
+Grab B-ORG
+, O
+startup O
+de O
+transporte O
+, O
+entrega O
+de O
+comida O
+e O
+serviços O
+de O
+pagamento O
+de O
+Singapura B-LOC
+, O
+acaba O
+de O
+receber O
+um O
+investimento O
+bilionário O
+. O
+

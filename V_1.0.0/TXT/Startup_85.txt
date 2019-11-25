@@ -1,0 +1,1 @@
+A ideia da fintech é oferecer toda a infraestrutura para que uma empresa possa criar suas próprias soluções de pagamento, em um modelo semelhante ao do PagSeguro e do PayPal.

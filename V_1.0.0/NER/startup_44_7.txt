@@ -1,0 +1,19 @@
+O O
+Banco B-ORG
+Inter I-ORG
+não O
+é O
+aceito O
+por O
+algumas O
+empresas O
+como O
+o O
+Google B-ORG
+Adsense I-ORG
+, O
+Skrill B-ORG
+e O
+Neteller B-ORG
+. O
+

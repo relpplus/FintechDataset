@@ -1,0 +1,26 @@
+Segundo O
+o O
+documento O
+, O
+13% B-VAL
+de O
+todas O
+as O
+transações O
+com O
+o O
+cartão O
+virtual O
+feitas O
+pelos O
+clientes O
+em O
+abril B-TMP
+foram O
+para O
+pagar O
+algum O
+desses O
+serviços O
+. O
+

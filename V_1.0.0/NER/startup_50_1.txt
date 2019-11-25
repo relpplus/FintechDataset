@@ -1,0 +1,16 @@
+Nubank B-LOC
+tem O
+aval O
+do O
+BC B-ORG
+para O
+ser O
+instituição O
+financeira O
+e O
+lança O
+cartão O
+de O
+débito O
+. O
+

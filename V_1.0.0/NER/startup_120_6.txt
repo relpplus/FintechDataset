@@ -1,0 +1,25 @@
+Ele O
+é O
+o O
+maior O
+complexo O
+de O
+inovação O
+e O
+empreendedorismo O
+do O
+Brasil B-LOC
+, O
+com O
+mais B-VAL
+de I-VAL
+300 I-VAL
+empresas O
+e O
+instituições O
+de O
+ensino O
+e O
+pesquisa O
+. O
+

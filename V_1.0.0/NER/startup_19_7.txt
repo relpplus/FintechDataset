@@ -1,0 +1,17 @@
+A O
+mediação O
+ficou O
+a O
+cargo O
+do O
+jornalista O
+Clayton B-PER
+Melo I-PER
+, O
+Líder B-PER
+e I-PER
+Curador I-PER
+da I-PER
+StarrtAgro I-PER
+. O
+

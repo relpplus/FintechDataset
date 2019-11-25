@@ -1,0 +1,22 @@
+A O
+rodada O
+é O
+uma O
+extensão O
+de O
+uma O
+Série O
+D O
+no O
+valor O
+de O
+US$ B-VAL
+300 I-VAL
+milhões I-VAL
+realizada O
+em O
+janeiro B-TMP
+deste O
+ano O
+. O
+

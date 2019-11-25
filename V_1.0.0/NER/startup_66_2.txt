@@ -1,0 +1,21 @@
+O O
+aprendizado O
+está O
+sendo O
+feito O
+a O
+partir O
+de O
+um O
+MVP O
+que O
+está O
+sendo O
+testado O
+durante O
+o O
+mês O
+de O
+janeiro B-TMP
+. O
+

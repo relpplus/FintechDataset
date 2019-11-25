@@ -1,0 +1,14 @@
+O O
+Parque B-ORG
+Tecnológico I-ORG
+de I-ORG
+São I-ORG
+José I-ORG
+dos I-LOC
+Campos I-LOC
+é O
+um O
+ótimo O
+exemplo O
+. O
+

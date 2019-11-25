@@ -1,0 +1,20 @@
+A O
+pesquisa O
+mostra O
+que O
+34,6 B-VAL
+% I-VAL
+das O
+pessoas O
+não O
+estão O
+dispostas O
+a O
+trocar O
+seu O
+provedor O
+de O
+serviços O
+financeiros O
+. O
+

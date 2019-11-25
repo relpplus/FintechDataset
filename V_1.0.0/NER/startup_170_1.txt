@@ -1,0 +1,23 @@
+A O
+empresa O
+de O
+pagamentos O
+Code B-ORG
+Money I-ORG
+que O
+nasceu O
+em O
+2017 B-TMP
+liberou O
+essa O
+semana O
+uma O
+novidade O
+para O
+os O
+seus O
+milhares O
+de O
+usuários O
+. O
+

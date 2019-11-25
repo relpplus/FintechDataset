@@ -1,0 +1,20 @@
+Encerramos O
+2018 B-TMP
+com O
+847 B-VAL
+mil I-VAL
+monthly I-VAL
+active O
+users O
+(MAU) O
+, O
+que O
+representa O
+o O
+número O
+de O
+usuários O
+ativos O
+mensalmente O
+. O
+

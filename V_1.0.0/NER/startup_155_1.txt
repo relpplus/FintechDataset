@@ -1,0 +1,27 @@
+O O
+Banco B-ORG
+Bari I-ORG
+do I-ORG
+Paraná I-ORG
+, O
+laçou O
+um O
+cartão O
+de O
+crédito O
+com O
+R$ B-VAL
+1 I-VAL
+milhão I-VAL
+de O
+limite O
+, O
+veja O
+se O
+você O
+pode O
+solicitar O
+o O
+cartão O
+. O
+

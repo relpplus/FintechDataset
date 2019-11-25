@@ -1,0 +1,20 @@
+O O
+estudo O
+desse O
+app O
+mostrou O
+que O
+esses O
+investimentos O
+automáticos O
+fizeram O
+as O
+pessoas O
+pouparem O
+em O
+média O
+5% B-VAL
+do O
+salário O
+! O
+

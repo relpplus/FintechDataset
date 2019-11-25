@@ -1,0 +1,25 @@
+O O
+valor O
+pago O
+será O
+determinado O
+pelo O
+mercado O
+, O
+mas O
+a O
+estimativa O
+é O
+seja O
+entre B-VAL
+15 I-VAL
+e I-VAL
+20 I-VAL
+dólares I-VAL
+por O
+tonelada O
+de O
+carbono O
+sequestrado O
+. O
+

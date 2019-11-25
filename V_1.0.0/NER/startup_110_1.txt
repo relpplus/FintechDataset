@@ -1,0 +1,10 @@
+5 B-VAL
+vantagens O
+do O
+Banco B-ORG
+Inter I-ORG
+sobre O
+o O
+Nubank O
+. O
+

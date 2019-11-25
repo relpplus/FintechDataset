@@ -1,0 +1,14 @@
+Rappi B-PER
+faz O
+parceria O
+com O
+a O
+Visa B-ORG
+e O
+anuncia O
+cartão O
+pré-pago O
+no O
+Brasil B-LOC
+. O
+

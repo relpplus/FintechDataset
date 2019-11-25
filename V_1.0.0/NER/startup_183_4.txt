@@ -1,0 +1,19 @@
+Enquanto O
+isso O
+, O
+a O
+Thinkseg B-ORG
+projeta O
+distribuir O
+200 B-VAL
+milhões I-VAL
+de I-VAL
+reais I-VAL
+em O
+prêmios O
+para O
+as O
+seguradoras O
+associadas O
+. O
+

@@ -1,0 +1,11 @@
+Goldman B-PER
+pretende O
+financiar O
+expansão O
+do O
+Nubank B-ORG
+na O
+América B-LOC
+Latina I-LOC
+. O
+

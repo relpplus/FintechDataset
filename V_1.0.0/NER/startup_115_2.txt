@@ -1,0 +1,21 @@
+A O
+PagBrasil B-ORG
+nasceu O
+em O
+2010 B-TMP
+, O
+fruto O
+da O
+parceria O
+entre O
+o O
+brasileiro O
+Alex B-PER
+Hoffmann I-PER
+e O
+o O
+alemão O
+Ralf B-PER
+Germer I-PER
+. O
+

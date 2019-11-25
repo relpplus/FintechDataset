@@ -1,0 +1,15 @@
+Seu O
+valor O
+, O
+claro O
+, O
+é O
+mais O
+salgado O
+: O
+16,9 B-VAL
+0 I-VAL
+euros I-VAL
+mensais O
+. O
+

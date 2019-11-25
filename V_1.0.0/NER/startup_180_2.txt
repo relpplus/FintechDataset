@@ -1,0 +1,16 @@
+O O
+tíquete O
+médio O
+é O
+de O
+R$ B-VAL
+2, I-VAL
+6 I-VAL
+mil I-VAL
+com O
+prazo O
+de O
+oito O
+meses O
+. O
+

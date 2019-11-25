@@ -1,0 +1,11 @@
+O O
+app O
+pode O
+processar O
+até O
+150 B-VAL
+imagens O
+por O
+minuto O
+. O
+

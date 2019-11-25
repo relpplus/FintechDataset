@@ -1,0 +1,24 @@
+O O
+que O
+o O
+aplicativo O
+de O
+delivery O
+Rappi B-LOC
+, O
+a O
+varejista O
+de O
+eletrodomésticos O
+Via B-ORG
+Varejo I-ORG
+e O
+o O
+marketplace O
+Mercado O
+Livre O
+têm O
+em O
+comum O
+? O
+

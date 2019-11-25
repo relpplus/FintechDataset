@@ -1,0 +1,17 @@
+Queremos O
+liberar O
+R$ B-VAL
+5 I-VAL
+milhões I-VAL
+em O
+microcrédito O
+em O
+2018 B-TMP
+e O
+R$ B-VAL
+25 I-VAL
+milhões I-VAL
+em O
+2019 B-TMP
+. O
+

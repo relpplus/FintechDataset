@@ -1,0 +1,23 @@
+A O
+Trussle B-ORG
+tira O
+todos O
+esses O
+aborrecimentos O
+para O
+você O
+e O
+pode O
+ajudar O
+os O
+consumidores O
+a O
+economizar O
+até O
+£ B-VAL
+4 I-VAL
+mil I-VAL
+por I-VAL
+ano I-VAL
+. O
+

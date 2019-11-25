@@ -1,0 +1,27 @@
+Em O
+janeiro B-TMP
+deste O
+ano O
+, O
+a O
+startup O
+anunciou O
+um O
+aporte O
+de O
+US$ B-VAL
+200 I-VAL
+milhões I-VAL
+do O
+Central B-ORG
+Group I-ORG
+, O
+o O
+maior O
+grupo O
+de O
+varejo O
+da O
+Tailândia B-LOC
+. O
+

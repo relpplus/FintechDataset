@@ -1,0 +1,21 @@
+O O
+perfil O
+do O
+solicitante O
+de O
+empréstimo O
+online O
+em O
+fintechs O
+continua O
+sendo O
+formado O
+por O
+jovens O
+de O
+21 B-VAL
+a I-VAL
+40 I-VAL
+anos I-VAL
+. O
+

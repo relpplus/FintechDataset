@@ -1,0 +1,3 @@
+"No primeiro momento, o app irá destacar os pagamentos feitos a Netflix, iFood, Spotify, Uber e PayPal, os serviços digitais mais usados pelos clientes na plataforma da Neon", afirma a fintech em nota.
+ Segundo o documento, 13% de todas as transações com o cartão virtual feitas pelos clientes em abril foram para pagar algum desses serviços.
+ No aplicativo, a ferramenta terá ícones específicos para cada um dos cinco serviços digitais selecionados.

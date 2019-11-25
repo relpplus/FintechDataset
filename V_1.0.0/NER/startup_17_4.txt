@@ -1,0 +1,23 @@
+A O
+surpresa O
+, O
+no O
+entanto O
+, O
+se O
+dá O
+quanto O
+ao O
+crescimento O
+das O
+solicitações O
+feitas O
+por O
+pessoas O
+com O
+mais B-VAL
+de I-VAL
+60 I-VAL
+anos I-VAL
+. O
+

@@ -1,0 +1,12 @@
+A O
+empresa O
+tem O
+faturamento O
+estimado O
+em O
+mais B-VAL
+de I-VAL
+R$ I-VAL
+100 I-VAL
+milhões I-VAL
+

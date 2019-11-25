@@ -1,0 +1,21 @@
+Destes O
+, O
+mais O
+de O
+clientes O
+380 B-VAL
+mil I-VAL
+clientes O
+concluíram O
+cadastrados O
+no O
+aplicativo O
+, O
+uma O
+taxa O
+de O
+sucesso O
+de O
+92,45% B-VAL
+. O
+

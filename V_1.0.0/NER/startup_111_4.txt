@@ -1,0 +1,13 @@
+Criada O
+em O
+2017 B-TMP
+, O
+a O
+startup O
+conta O
+com O
+60 B-VAL
+mil I-VAL
+clientes O
+. O
+

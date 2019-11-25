@@ -1,0 +1,22 @@
+A O
+nona O
+edição O
+acontece O
+agora O
+em O
+Blumenau B-LOC
+e O
+Chapecó B-LOC
+, O
+além O
+de O
+Florianópolis B-LOC
+e O
+Joinville B-LOC
+, O
+contempladas O
+em O
+edições O
+anteriores O
+. O
+

@@ -1,0 +1,14 @@
+A O
+startup O
+colombiana O
+de O
+entregas O
+Rappi B-PER
+fez O
+uma O
+parceria O
+com O
+a O
+Visa B-ORG
+. O
+

@@ -1,0 +1,21 @@
+61% I-VAL
+dos O
+seis O
+mil O
+empresários O
+ouvidos O
+acham O
+o O
+sistema O
+ruim O
+ou O
+muito O
+ruim O
+, O
+a O
+pior O
+avaliação O
+desde O
+2013 B-TMP
+. O
+

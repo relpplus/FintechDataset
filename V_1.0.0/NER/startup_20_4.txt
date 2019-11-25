@@ -1,0 +1,22 @@
+Até O
+o O
+momento O
+, O
+ela O
+opera O
+em O
+11 B-VAL
+estados O
+adicionais O
+e O
+pretende O
+abranger O
+quase O
+todo O
+os O
+Estados B-LOC
+Unidos I-LOC
+até O
+2019 B-TMP
+. O
+

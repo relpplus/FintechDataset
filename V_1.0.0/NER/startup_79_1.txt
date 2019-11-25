@@ -1,0 +1,27 @@
+A O
+insurtech O
+Planetun O
+e O
+a O
+gigante O
+da O
+tecnologia O
+IBM B-ORG
+anunciam O
+o O
+lançamento O
+da O
+primeira O
+solução O
+para O
+vistoria O
+de O
+automóveis O
+baseada O
+em O
+inteligência O
+artificial O
+do O
+mercado O
+. O
+

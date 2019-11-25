@@ -1,0 +1,20 @@
+O O
+Centro-Oeste B-LOC
+tem O
+71 B-VAL
+empresas O
+, O
+enquanto O
+o O
+Nordeste B-LOC
+tem O
+41 B-VAL
+e O
+a O
+Região B-LOC
+Norte I-LOC
+, O
+apenas O
+16 B-VAL
+. O
+

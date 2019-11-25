@@ -1,0 +1,19 @@
+Nossa O
+meta O
+é O
+alcançar O
+10 B-VAL
+mil I-VAL
+empréstimos O
+por O
+mês” O
+, O
+contou O
+Mellissa B-PER
+Penteado I-PER
+, O
+CEO B-ORG
+do O
+Bancoin B-ORG
+. O
+

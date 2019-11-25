@@ -1,0 +1,20 @@
+O O
+novo O
+tipo O
+de O
+conta O
+é O
+fruto O
+de O
+um O
+ano O
+de O
+testes O
+com O
+1, B-VAL
+2 B-VAL
+mil I-VAL
+empresas O
+voluntárias O
+. O
+

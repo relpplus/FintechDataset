@@ -1,0 +1,1 @@
+No caso do C6 Bank, especificamente, os alunos do MIT estão auxiliando em um plano de criação para um robô-advisor – ou seja, um robô conselheiro para finanças pessoais. O aprendizado está sendo feito a partir de um MVP que está sendo testado durante o mês de janeiro.

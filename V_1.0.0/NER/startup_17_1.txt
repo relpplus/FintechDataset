@@ -1,0 +1,26 @@
+A O
+pesquisa O
+mensal O
+da O
+Lendico B-ORG
+registra O
+aumento O
+de O
+58% B-VAL
+nos O
+pedidos O
+de O
+empréstimos O
+, O
+em O
+julho B-TMP
+de I-TMP
+2018 I-TMP
+ante O
+o O
+mesmo O
+período O
+de O
+2017 B-TMP
+. O
+

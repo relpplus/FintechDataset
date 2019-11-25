@@ -1,0 +1,23 @@
+Os O
+valores O
+variam O
+de O
+R$ B-VAL
+84 I-VAL
+a I-VAL
+R$ I-VAL
+998 I-VAL
+, O
+conforme O
+a O
+quantidade O
+de O
+dias O
+trabalhados O
+durante O
+o O
+ano O
+base O
+2017 B-TMP
+. O
+

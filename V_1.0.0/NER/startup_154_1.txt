@@ -1,0 +1,27 @@
+O O
+Banco B-ORG
+Central I-ORG
+do I-ORG
+Brasil I-ORG
+selecionou O
+nesta O
+segunda-feira O
+, O
+1º B-VAL
+, O
+20 B-VAL
+projetos O
+de O
+fintechs O
+que O
+integrarão O
+o O
+Laboratório B-ORG
+de I-ORG
+Inovação I-ORG
+Financeira I-ORG
+e I-ORG
+Tecnológicas I-ORG
+(Lift) O
+. O
+

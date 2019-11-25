@@ -1,0 +1,21 @@
+A O
+dificuldade O
+de O
+acesso O
+a O
+crédito O
+é O
+um O
+dos O
+maiores O
+problemas O
+enfrentados O
+pelos O
+donos O
+de O
+pequenos O
+negócios O
+no O
+Brasil B-LOC
+. O
+

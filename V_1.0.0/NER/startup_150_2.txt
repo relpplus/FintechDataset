@@ -1,0 +1,19 @@
+Estamos O
+falando O
+de O
+uma O
+ação O
+coordenada O
+do O
+governo O
+em O
+cima O
+de O
+regiões O
+100% B-VAL
+estruturadas O
+, O
+como O
+Piracicaba B-LOC
+. O
+

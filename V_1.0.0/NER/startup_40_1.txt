@@ -1,0 +1,27 @@
+78% I-VAL
+das O
+startups O
+brasileiras O
+faturaram O
+menos O
+de O
+R$ B-VAL
+500 I-VAL
+mil I-VAL
+nos O
+últimos O
+12 B-VAL
+meses I-VAL
+e O
+apenas O
+16,6 B-VAL
+% I-VAL
+superou O
+a O
+faixa O
+de O
+R$ B-VAL
+1 I-VAL
+milhão I-VAL
+. O
+

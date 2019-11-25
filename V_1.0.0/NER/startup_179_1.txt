@@ -1,0 +1,14 @@
+PayMee B-ORG
+acumula O
+mais B-VAL
+de I-VAL
+1 I-VAL
+milhão I-VAL
+de O
+pagamentos O
+processados O
+em O
+dois O
+anos O
+. O
+

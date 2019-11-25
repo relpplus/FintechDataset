@@ -1,0 +1,21 @@
+Este O
+público O
+foi O
+responsável O
+no O
+mês O
+de O
+julho B-TMP
+por O
+67% B-VAL
+dos O
+pedidos O
+totais O
+feitos O
+à O
+fintech O
+de O
+empréstimos O
+pessoais O
+. O
+
