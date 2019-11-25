@@ -1,6 +1,6 @@
 # README
 
-# FintechDataset - English Version
+# FintechDataset
    
 * English Version
 
@@ -16,7 +16,7 @@
    - ExtractionRelation (excel com a anotação manual de Extração Relação)
    - Original (arquivo original do dataset fintechs)
 
-# Description - English Version
+# Description
 
 * English Version
 
